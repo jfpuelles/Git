@@ -1,4 +1,3 @@
-hola
-como estas
-soy yo 
-jose 
+Que tal!
+como estas?
+soy yo Jose 
