@@ -6,4 +6,4 @@ este es un cambio para la rama principal
 
 ahora este es un cambio para la rama experimento
 
-para los errores
+para el error en main
