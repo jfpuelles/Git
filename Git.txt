@@ -6,4 +6,8 @@ este es un cambio para la rama principal
 
 ahora este es un cambio para la rama experimento
 
-para el error desde el experimento
+para el error desde el experimento 
+
+Esta muy interesante el editor vi
+
+tambien el vim, pero no se la diferencia
