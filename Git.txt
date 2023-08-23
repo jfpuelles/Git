@@ -6,4 +6,12 @@ este es un cambio para la rama principal
 
 ahora este es un cambio para la rama experimento
 
+<<<<<<< HEAD
+para el error desde el experimento 
+
+Esta muy interesante el editor vi
+
+tambien el vim, pero no se la diferencia
+=======
 para el error desde el experimento
+>>>>>>> da6e2e04701dd78a8558a11b1aa899d8c2b51c5f
